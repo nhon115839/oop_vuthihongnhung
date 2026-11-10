@@ -7,7 +7,6 @@
 #include <ctime>
 using namespace std;
 
-// Lop 1: thong tin mot xe
 class Vehicle {
 private:
     int vehicleId;
